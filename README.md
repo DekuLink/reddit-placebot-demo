@@ -7,9 +7,9 @@ Guide to install and run https://github.com/zequez/reddit-placebot
 
 3. In the new folder, rename the "users.example.json" to "users.json". (If it doesn't have a ".json" at the end, just change the name from "users.example" to the "users")
  
-4. Open the "users.json 'with your favorite editor and add all your Reddit accounts like so:
+4. Open the "users.json" with your favorite editor and add all your reddit accounts like so:
 
-   {"Username: Password", "Username2": "password2"}
+   {"Username1": "password1", "Username2": "password2"}
  
 5. Download https://raw.githubusercontent.com/DekuLink/reddit-placebot-raocow/master/config.js and replace the config.js file with it.
 
