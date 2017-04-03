@@ -14,9 +14,9 @@ Guide to install and run https://github.com/zequez/reddit-placebot
 5. Open up https://github.com/DekuLink/reddit-placebot-raocow/blob/master/config.js
    Right click on "Raw" button and click "Save link as". Save it where you can find it. Drag the new config.js into the folder of the original so that it replaces the old config.js.
 
-6. WINDOWS: Open a terminal in the folder (shift + rightclick folder, Open Command Prompt / PowerShell here) and enter "NPM install" into the terminal.
+6. WINDOWS: Open a terminal in the folder (shift + rightclick folder, Open Command Prompt / PowerShell here) and enter "NPM install" into the terminal and hit enter.
    OSX: Open a terminal and "cd" to the folder you downloaded earlier.
         Tex "cd / Users / -" your user name "- / Downloads / reddit-the placebo-master /"
         write "npm install" in the terminal.
  
-7. To run, type "npm run off" into the terminal and leave it open. To finish the press Ctrl + C twice.
+7. To run, type "npm run start" into the terminal and leave it open. To finish the press Ctrl + C twice.
