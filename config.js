@@ -2,7 +2,7 @@ module.exports = {
   BOARD_URL: 'https://www.reddit.com/api/place/board-bitmap',
   BOARD_FILE: __dirname + '/tmp/board.bmp',
 
-  REMOTE_TARGET_URL: 'https://github.com/DekuLink/reddit-placebot-raocow/raw/master/target.bmp',
+  REMOTE_TARGET_URL: 'https://raw.githubusercontent.com/DekuLink/reddit-placebot-raocow/master/target.png',
   REMOTE_TARGET_FILE: __dirname + '/tmp/remote_target',
 
   LOCAL_TARGET_FILE: __dirname + '/images/target.png',
@@ -21,7 +21,7 @@ module.exports = {
   targetStartX: 0,
   targetStartY: 0,
 
-  drawMode: 'RANDOM', // TOPLEFT | RANDOM
+  drawMode: 'RANDOM', // LEFTTOP | RANDOM
 
   // Testing configuration things
 
